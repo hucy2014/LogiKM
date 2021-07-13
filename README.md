@@ -1,7 +1,7 @@
 
 ---
 
-![kafka-manager-logo](./docs/assets/images/common/logo_name.png)
+![logikm_logo](https://user-images.githubusercontent.com/71620349/125024570-9e07a100-e0b3-11eb-8ebc-22e73e056771.png)
 
 **一站式`Apache Kafka`集群指标监控与运维管控平台**
 
@@ -73,7 +73,7 @@
 
 
 ![image](https://user-images.githubusercontent.com/5287750/111266722-e531d800-8665-11eb-9242-3484da5a3099.png)  
-微信加群：关注公众号 Obsuite(官方公众号) 回复 "Logi加群"
+微信加群：关注公众号 云原生可观测性 回复 "Logi加群"
 
 ## 4 OCE认证
 OCE是一个认证机制和交流平台，为滴滴Logi-KafkaManager生产用户量身打造，我们会为OCE企业提供更好的技术支持，比如专属的技术沙龙、企业一对一的交流机会、专属的答疑群等，如果贵司Logi-KafkaManager上了生产，[快来加入吧](http://obsuite.didiyun.com/open/openAuth)
